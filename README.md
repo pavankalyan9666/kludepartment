@@ -1,0 +1,9 @@
+# kludepartments
+ECE
+CSE
+BIOTECHNOLOGY
+CIVIL
+MECH
+EEE
+PT
+ECM
